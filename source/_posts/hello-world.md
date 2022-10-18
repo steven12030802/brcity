@@ -1,25 +1,20 @@
 ---
-title: Hello World
+title: 服务器玩法
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## 服务器玩法
 
-### Create a new post
+### 创建用户
 
-``` bash
-$ hexo new "My New Post"
+```
+/reg 密码 密码
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+首次进入服务器输入上述命令以完成用户注册
 
-### Run server
+### 本服为模组服，附加插件增强怪物
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
+客户端下载地址: [BrCity客户端V1.0](https://hexo.io/docs/server.html)
 
 ### Generate static files
 
