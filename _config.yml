@@ -103,4 +103,8 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 
 deploy:
-    type: ''
+    type:
+    # type: git
+    # repo: git@github.com:steven12030802/brcity.github.io.git
+    # branch: master
+    # message: updated:{{ now("yyyy-MM-DD HH:mm:ss") }}
