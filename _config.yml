@@ -104,6 +104,6 @@ theme: fluid
 
 deploy:
     type: git
-    repo: git@github.com:steven12030802/brcity.git
+    repo: https://gitee.com/MrBlack911/brcity_blog.git
     branch: master
     message: updated:{{ now("yyyy-MM-DD HH:mm:ss") }}
